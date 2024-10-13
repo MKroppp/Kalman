@@ -63,3 +63,24 @@ total_time = 0.3:
    offset = 15;  
    total_time = 0.5;  
 []()  
+3. Q = 5;  
+   R = 50;  
+   P = 10;  
+   x = 0;  
+   offset = 0;  
+   total_time = 5;  
+[]()  
+4. Q = 1;  
+   R = 1;  
+   P = 5;  
+   x = 10;  
+   offset = 5;  
+   total_time = 2;  
+[]()  
+5. Q = 2;  
+   R = 20;  
+   P = 0.5;  
+   x = 0;  
+   offset = 12;  
+   total_time = 3;  
+[]()  
