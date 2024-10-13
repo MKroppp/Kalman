@@ -55,3 +55,11 @@ total_time = 0.3:
    x = 0;  
    offset = 10;  
    total_time = 1;  
+[]()  
+2. Q = 0.1;  
+   R = 1;  
+   P = 0.1;  
+   x = 5;  
+   offset = 15;  
+   total_time = 0.5;  
+[]()  
