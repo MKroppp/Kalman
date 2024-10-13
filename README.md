@@ -44,6 +44,8 @@ offset = 50:
 total_time = 1:  
 []()  
 total_time = 5:  
+**Порівняння результатів**  
+
 []()  
 total_time = 0.3:  
 []()  
